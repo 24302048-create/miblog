@@ -1,5 +1,5 @@
 // public/script.js
-const API = "https://tuapp.onrender.com/api";
+const API = "https://server2-hzwu.onrender.com";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Mostrar usuario si existe
@@ -188,3 +188,4 @@ const API_KEY = "a10ce1cd396630a4bdf88b2c4af8c3f1";
       errorClima.textContent = error.message;
     }
   });
+
